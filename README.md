@@ -4,7 +4,7 @@
 
  > 1. Buka dan import semua file ini ke replit
  
- > 2. Buat folder dengan nama "image"
+ > 2. Buat folder dengan nama "uploads"
  
  > 3. Jalankan project
 
