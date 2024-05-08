@@ -1,6 +1,6 @@
 # CameraPhising
 
- | Cara install |
+ | Cara install
 
  - Buka dan import semua file ini ke replit
  
