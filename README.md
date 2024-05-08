@@ -2,13 +2,13 @@
 
  Cara install
 
- - 1.Buka dan import semua file ini ke replit
+ - Buka dan import semua file ini ke replit
  
- - 2.Buat folder dengan nama "uploads"
+ - Buat folder dengan nama "uploads"
  
- - 3.Jalankan project
+ - Jalankan project
 
- - 4.Kirim link ke target
+ - Kirim link ke target
 
 
 
