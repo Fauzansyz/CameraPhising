@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+  <title>Capture and friend</title>
+</head>
+
+<body>
+  <div class="background"></div>
+    <div class="overlay" id="overlay2">
+    <div class="menu">
+      <h2>Hai,Nama kamu siapa </h2>
+      <input type="text" placeholder="Max 8 huruf" id="input" onkeydown="enter(event)">
+    </div>
+  </div>
+  <div class="contains">
+    <div class="video">
+      <h2 class="name"></h2>
+      <h2 class="title">Tap di sini untuk melanjutkan</h2>
+      <video id="video" autoplay></video>
+      </div>
+      <canvas id="canvas"></canvas>
+    </div>
+    <script src="main.js"></script>
+</body>
+
+</html>
